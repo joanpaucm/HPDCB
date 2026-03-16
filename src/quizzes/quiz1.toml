@@ -6,7 +6,7 @@ prompt.distractors = [
     "Use on-demand capacity",
     "Increase speed and agility",
 ]
-answer.answer = "All of the above"
+answer.answer = "All answers are correct."
 id = "1"
 
 [[questions]]
