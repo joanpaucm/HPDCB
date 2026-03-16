@@ -45,7 +45,7 @@ We are going to use a website template created by [Dean Attali](https://attalite
     <img src="./figs/hol01/pages2.jpeg" width="85%">
 </p>
 
-4. Wait for a couple minutes until your website is deployed. When the deployment is done you'll see a green checkmark next to your last commit. You'll see an orange dot while the deployment is in progress (try refreshing the page if you don't see the green checkmark after a few minutes).
+4. Wait for a couple minutes until your website is deployed. When the deployment is done you'll see a green checkmark next to your last commit. You'll see an brown dot while the deployment is in progress (try refreshing the page if you don't see the green checkmark after a few minutes).
 
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="./figs/hol01/ci-waiting.png" width="35%">
@@ -80,7 +80,7 @@ Instead of editing the file using the Github web interface, you can clone the re
 
 ## Task 3: Writing a Blog Entry
 
-Now that we have the website tuned up, let's write a blog entry. You may have noticed that on the website home page there is a blogpost called `Sample blog post...` which you can click to fully read. This is a template blog post which you can use to learn the different syntaxes and styles you can use to write your own blog post. That file is located at `_posts/2020-02-26-example-post.md`. You can always refer to that file to see how to write a blog post. In case you don't want it to show on your website, just delete it and refer to [the one in the repository you forked](https://github.com/FerranAD/website-template/blob/main/_posts/2020-02-26-example-post.md?plain=1).
+Now that we have the website tuned up, let's write a blog entry. You may have noticed that on the website home page there is a blogpost called `Sample blog post...` which you can click to fully read. This is a template blog post which you can use to learn the different syntaxes and styles you can use to write your own blog post. That file is located at `_posts/2020-02-26-example-post.md`. You can always refer to that file to see how to write a blog post. In case you don't want it to show on your website, just delete it.
 
 To write a new blogpost, just create a new file inside the `_posts` directory **with the following name format: `YYYY-MM-DD-title.md`**. If you don't follow this format, the blog post won't show up on your website. You can create a new file by navigating to the `_posts` directory and clicking the "Add file -> Create a new file" button. Now that we know how to create a new blog post, let's write one!
 
