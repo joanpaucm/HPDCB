@@ -83,4 +83,5 @@ Add your name and website here!
 - [Maria Fernandez](https://mfb-urv.github.io)
 - [Eva Paraskevadaki](https://evaparask.github.io/)
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
+- - [Michael Eskander](https://michaeleskander.github.io/website-template/)
 
