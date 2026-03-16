@@ -99,11 +99,11 @@ id = "9"
 
 [[questions]]
 type = "MultipleChoice"
-prompt.prompt = "In the context of scientific research reproducibility, how does cloud computing play a crucial role in overcoming challenges related to version control and environment consistency?"
+prompt.prompt = "Which type of Cloud service best describes Gmail?"
 prompt.distractors = [
-    "By automating the installation of software dependencies.",
-    "By optimizing algorithms for parallel processing.",
-    "By enabling the use of cloud-based storage solutions."
+    "Infrastructure as a Service (IaaS).",
+    "Platform as a Service (PaaS).",
+    "Storage as a Service."
 ]
-answer.answer = "By providing versioned snapshots of entire computing environments."
+answer.answer = "Software as a Service (SaaS)."
 id = "10"
