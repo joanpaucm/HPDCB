@@ -24,25 +24,25 @@ We are going to use a website template created by [Dean Attali](https://attalite
 1. Fork [https://github.com/ferranad/website-template](https://github.com/ferranad/website-template) to your GitHub account by clicking on the "Fork" button at the top right corner of this page. 
 
 <p align="center">
-    <img src="./figs/hol01/fork.jpeg" width="90%">
+    <img src="./figs/hol01/fork.png" width="90%">
 </p>
 
 2. Rename the repository to `username.github.io`, where `username` is your GitHub username.
 
 <p align="center">
-    <img src="./figs/hol01/rename.jpeg" width="85%">
+    <img src="./figs/hol01/rename.png" width="85%">
 </p>
 
 3. Go to the repository settings and find the GitHub Pages section.
 
 <p align="center">
-    <img src="./figs/hol01/pages1.jpeg" width="85%">
+    <img src="./figs/hol01/pages1.png" width="85%">
 </p>
 
 4. Enable GitHub Pages by selecting the `main` branch as the source. Click on the "Save" button and go back to your repository main page.
 
 <p align="center">
-    <img src="./figs/hol01/pages2.jpeg" width="85%">
+    <img src="./figs/hol01/pages2.png" width="85%">
 </p>
 
 4. Wait for a couple minutes until your website is deployed. When the deployment is done you'll see a green checkmark next to your last commit. You'll see an brown dot while the deployment is in progress (try refreshing the page if you don't see the green checkmark after a few minutes).
@@ -55,18 +55,18 @@ We are going to use a website template created by [Dean Attali](https://attalite
 5. You can optionally edit the repository description so it contains the URL of your website. This will make it easier for you and others to access your website from the GitHub repository page.
 
 <p align="center">
-    <img src="./figs/hol01/description.jpeg" width="85%">
+    <img src="./figs/hol01/description.png" width="85%">
 </p>
 
 6. Test your website by visiting `https://username.github.io` in your web browser (replace `username` with your github username). You'll notice that the website is already populated with some example content.
 
 ## Task 2: Customizing your personal website
 
-1. Edit the `_config.yml` file to customize your website. You can use the GitHub web interface to edit the file directly as shown on the video below. Once you commit the changes to the main branch, the website deployment will be automatically triggered again and in a couple minutes you'll have your website updated.
+1. Edit the `_config.yml` file to customize your website. You can use the GitHub web interface to edit the file directly. Once you commit the changes to the main branch, the website deployment will be automatically triggered again and in a couple minutes you'll have your website updated.
 
-<p align="center">
-    <img src="./figs/hol01/edit-file.gif" width="85%">
-</p>
+%<p align="center">
+%    <img src="./figs/hol01/edit-file.gif" width="85%">
+%</p>
 
 Instead of editing the file using the Github web interface, you can clone the repository to your local machine and edit the file using a text editor if you feel more comfortable. This is more advanced and requires your computer to have git installed and configured to work with your GitHub account. More information [here](https://github.com/readme/guides/configure-git-environment).
 
