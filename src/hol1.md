@@ -64,9 +64,9 @@ We are going to use a website template created by [Dean Attali](https://attalite
 
 1. Edit the `_config.yml` file to customize your website. You can use the GitHub web interface to edit the file directly. Once you commit the changes to the main branch, the website deployment will be automatically triggered again and in a couple minutes you'll have your website updated.
 
-%<p align="center">
-%    <img src="./figs/hol01/edit-file.gif" width="85%">
-%</p>
+<p align="center">
+    <img src="./figs/hol01/edit-file.gif" width="85%">
+</p>
 
 Instead of editing the file using the Github web interface, you can clone the repository to your local machine and edit the file using a text editor if you feel more comfortable. This is more advanced and requires your computer to have git installed and configured to work with your GitHub account. More information [here](https://github.com/readme/guides/configure-git-environment).
 
