@@ -24,8 +24,8 @@ This website contains **HOLs (Hands-On Labs)** as well as **guides** for the cou
 - [HOL 01 - Deploying your personal website](./hol1.md)
 - [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
 
-### Miscellaneous
-- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
+### Quizzes (quizzes to deliver)
+- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md). Please send the last page with the quiz results obtained to francesc.solsona@udl.cat.
 
 ## Student's blogs
 
