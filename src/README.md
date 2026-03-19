@@ -6,7 +6,7 @@ This website contains **HOLs (Hands-On Labs)** as well as **guides** for the cou
 
 ## Table of Contents
 
-### Class sessions
+### Sessions
 - [Session 1 & 2 - Introduction to Cloud Computing + Github Pages](./session1-2.md)
 	- [HOL 01 - Deploying your personal website](./hol1.md)
 - [Session 3 - Introduction to AWS + EC2](./session3.md)
@@ -16,7 +16,7 @@ This website contains **HOLs (Hands-On Labs)** as well as **guides** for the cou
 - [Session 6, 7 & 8 - AWS Networking + 2nd Assignment](./session6-7-8.md)
 	- [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
 
-### Useful guides
+### Guides
 - [Guide 1 - Setting up AWS for the first time](./guide1.md)
 - [Guide 2 - Setting up AWS for each subsequent session](./guide2.md)
 
