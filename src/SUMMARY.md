@@ -1,17 +1,17 @@
 # Summary
 
 # About this book
-[About](./README.md)
+0. [About](./README.md)
 %- [Contribution](./CONTRIBUTING.md)
 
 # Sessions
-1. [Session 1 & 2 - Introduction to Cloud Computing + Github Pages. Hands-On Lab 1](./session1-2.md)
+1. [Session 1 & 2 - Introduction to Cloud Computing + Github Pages.](./session1-2.md)
 	- [HOL 01 - Deploying your personal website](./hol1.md)
 2. [Session 3 - Introduction to AWS + EC2](./session3.md)
 	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
 3. [Session 4 - AWS S3](./session4.md)
 4. [Session 5 - AWS Lambda](./session5.md)
-5. [Session 6, 7 & 8 - AWS Networking. Hands-On Lab 2](./session6-7-8.md)
+5. [Session 6, 7 & 8 - AWS Networking.](./session6-7-8.md)
 	- [HOL 02 - Deploying a cloud infrastructure for researchers in AWS](./hol2.md)
 
 # Guides
