@@ -1,11 +1,11 @@
 # Summary
 
-## 📖 About this Course
+## About this Course
 * [Introduction](./README.md)
 
 ---
 
-## 🚀 Sessions & Curriculum
+## Sessions & Curriculum
 
 ### 1. Cloud Basics & Static Hosting
 * [Session 1 & 2: Cloud Computing + GitHub Pages](./session1-2.md)
@@ -23,13 +23,13 @@
 
 ---
 
-## 🛠 Setup Guides
+##  Setup Guides
 * [Guide 1: Initial AWS Account Setup](./guide1.md)
 * [Guide 2: Session-by-Session Environment Prep](./guide2.md)
 
 ---
 
-## 🧪 Hands-On Labs (HOL)
+##  Hands-On Labs (HOL)
 
 > **[HOL 01: Personal Website](./hol1.md)**
 > Introduction to SaaS deployment. Deploy a personal site and explore a case study on cloud applications in biomedicine.
@@ -39,5 +39,5 @@
 
 ---
 
-## 📝 Assessment
+## Assessment
 * [Quiz 1: Cloud Computing Fundamentals](./quiz1.md)
