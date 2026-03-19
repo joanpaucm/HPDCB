@@ -1,33 +1,27 @@
 # Summary
 
-## Introduction
-* [About this Book](./README.md)
+# About this website
+- [About](./README.md)
+%- [Contribution](./CONTRIBUTING.md)
 
----
+# Sessions
+- [Session 1 & 2 - Introduction to Cloud Computing + Github Pages.](./session1-2.md)
+	- [HOL 01 - Deploying your personal website](./hol1.md)
+- [Session 3 - Introduction to AWS + EC2](./session3.md)
+	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
+- [Session 4 - AWS S3](./session4.md)
+- [Session 5 - AWS Lambda](./session5.md)
+- [Session 6, 7 & 8 - AWS Networking.](./session6-7-8.md)
+	- [HOL 02 - Deploying a cloud infrastructure for researchers in AWS](./hol2.md)
 
-## Sessions
-1. [Session 1 & 2 - Introduction to Cloud Computing + GitHub Pages](./session1-2.md)
-    * [HOL 01 - Deploying your personal website](./hol1.md)
-2. [Session 3 - Introduction to AWS + EC2](./session3.md)
-    * [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
-3. [Session 4 - AWS S3](./session4.md)
-4. [Session 5 - AWS Lambda](./session5.md)
-5. [Session 6, 7 & 8 - AWS Networking](./session6-7-8.md)
-    * [HOL 02 - Cloud Infrastructure for Researchers](./hol2.md)
+# Guides
+- [Guide 1 - Setting up AWS for the first time](./guide1.md)
+- [Guide 2 - Setting up AWS for each subsequent session](./guide2.md)
 
----
+# Hands-On Labs
+- [HOL 01 - Deploying your personal website](./hol1.md): The goal of this hands-on activity is to introduce you to the basics of cloud computing through the deployment of a personal website using a SaaS (Software as a Service)  Additionally, you will explore and write a blog entry on a cloud application in the field of biomedicine.
 
-## Hands-On Labs (Detailed)
-* [HOL 01 - Personal Website](./hol1.md): Basics of cloud computing through SaaS deployment and a blog entry on biomedical cloud applications.
-* [HOL 02 - Research Infrastructure](./hol2.md): Deploying a private Jupyter Notebook server via VPN and a public FileGator server on AWS.
+- [HOL 02 - Deploying a cloud infrastructure for researchers in AWS](./hol2.md): The goal of this hands-on lab is to introduce you to the basics of cloud computing by deploying an infrastructure for researchers in AWS. It will include a private Jupyter Notebook server accessible via VPN and a public FileGator server accessible from the internet.
 
----
-
-## Guides
-* [Initial Setup Guide](./guide1.md)
-* [Subsequent Session Guide](./guide2.md)
-
----
-
-## Assessments
-* [Quiz 1 - Cloud Computing Fundamentals](./quiz1.md)
+# Quizzes
+- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
