@@ -1,7 +1,7 @@
 # Summary
 
 # About this book
-0. [About](./README.md)
+- [About](./README.md)
 %- [Contribution](./CONTRIBUTING.md)
 
 # Sessions
