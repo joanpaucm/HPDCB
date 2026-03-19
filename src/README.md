@@ -13,7 +13,7 @@ This website contains **HOLs (Hands-On Labs)** as well as **guides** for the cou
 	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
 - [Session 4 - AWS S3](./session4.md)
 - [Session 5 - AWS Lambda](./session5.md)
-- [Session 6, 7 & 8 - AWS Networking + 2nd Assignment](./session6-7-8.md)
+- [Session 6, 7 & 8 - AWS Networking](./session6-7-8.md)
 	- [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
 
 ### Guides
