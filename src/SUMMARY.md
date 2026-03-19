@@ -6,10 +6,13 @@
 
 # Sessions
 - [Session 1 & 2 - Introduction to Cloud Computing + Github Pages. Hands-On Lab 1](./session1-2.md)
+- [HOL 01 - Deploying your personal website](./hol1.md)
 - [Session 3 - Introduction to AWS + EC2](./session3.md)
+- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
 - [Session 4 - AWS S3](./session4.md)
 - [Session 5 - AWS Lambda](./session5.md)
 - [Session 6, 7 & 8 - AWS Networking. Hands-On Lab 2](./session6-7-8.md)
+- [HOL 02 - Deploying a cloud infrastructure for researchers in AWS](./hol2.md)
 
 # Guides
 - [Guide 1 - Setting up AWS for the first time](./guide1.md)
