@@ -8,13 +8,13 @@ This website contains **HOLs (Hands-On Labs)** as well as **guides** for the cou
 
 ### Class sessions
 - [Session 1 & 2 - Introduction to Cloud Computing + Github Pages](./session1-2.md)
-- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
+	- [HOL 01 - Deploying your personal website](./hol1.md)
 - [Session 3 - Introduction to AWS + EC2](./session3.md)
-- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
+	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
 - [Session 4 - AWS S3](./session4.md)
 - [Session 5 - AWS Lambda](./session5.md)
 - [Session 6, 7 & 8 - AWS Networking + 2nd Assignment](./session6-7-8.md)
-- [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
+	- [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
 
 ### Useful guides
 - [Guide 1 - Setting up AWS for the first time](./guide1.md)
