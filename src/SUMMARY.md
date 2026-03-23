@@ -1,7 +1,7 @@
 # Summary
 
-# [About this website](./README.md)
-- [About](./README.md)
+# [About this website](README.md)
+%- [About](./README.md)
 %- [Contribution](./CONTRIBUTING.md)
 
 # Sessions
