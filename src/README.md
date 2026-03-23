@@ -1,6 +1,6 @@
 # About this website
 
-This website contains **HOLs (Hands-On Labs)** as well as **guides** for the course *High Performance and Distributed Computing for Big Data* in the [Inter-university Master's Degree in Health Data Science](https://www.urv.cat/en/studies/master/courses/health-data-science/). The Hands on Labs are designed for Unit 3: Cloud Computing and Unit 4: Big Data.
+This website contains  the **slides**, **HOLs (Hands-On Labs)**,  **guides** **quizzes** and the **evaluation** criteria for the course *High Performance and Distributed Computing for Big Data* in the [Inter-university Master's Degree in Health Data Science](https://www.urv.cat/en/studies/master/courses/health-data-science/). The Hands on Labs are designed for Unit 3: Cloud Computing and Unit 4: Big Data.
 
 ![Course logo](./figs/logo.png)
 
@@ -26,6 +26,15 @@ This website contains **HOLs (Hands-On Labs)** as well as **guides** for the cou
 
 ### Quizzes (quizzes to deliver)
 - [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md). 
+
+### Evaluation Criteria (10 points)
+- HOL 01 – 2 points (Optional)
+- HOL 02 – 2 points (Optional)
+- Quiz 1 – 1 point (Optional)
+- Quiz 2 – 5 points (Mandatory, completed during the last session)
+
+
+
 
 ## Student's blogs
 
