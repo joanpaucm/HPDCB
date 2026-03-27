@@ -207,12 +207,12 @@ This text will change each time a new lab session is started, that is why we'll 
 First step will be to make sure the `.aws` folder exists. Run the following command:
 
 ```
-mkdir .aws
+[ec2-user@ip-172-31-86-82 ~]$ mkdir .aws
 ```
 As when we where creating the `.ssh` folder when generating a key pair, the command may fail due to the folder already existing. If that's the case, don't worry about it. Now we are going to create the `credentials` file inside the `.aws` folder. Run the following command:
 
 ```
-nano .aws/credentials
+[ec2-user@ip-172-31-86-82 ~]$ nano .aws/credentials
 ```
 
 ```admonish warning
@@ -237,7 +237,7 @@ We are now going to select and copy the text from the AWS Academy website.
     <img src="./figs/guide02/credentials2.png", width="67%">
 </p>
 
-Next we'll go back to ther terminal where we are editing the `credentials` file and paste the text with `Ctrl + V` (try `Ctrl + Shift + V` if `Ctrl + V` doesn't work). The copied text is now where we want it and we can proceed so save the file and exit. To do so, press `Ctrl + X` as indicated in the cheatsheet at the bottom of nano.
+Next we'll go back to the terminal where we are editing the `credentials` file and paste the text with `Ctrl + U` (try `Ctrl + Shift + U` if `Ctrl + U` doesn't work). The copied text is now where we want it and we can proceed so save the file and exit. To do so, press `Ctrl + X` as indicated in the cheatsheet at the bottom of nano.
 
 ![AWS Dashboard](./figs/guide02/nano-after-paste.png)
 
