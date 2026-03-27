@@ -215,13 +215,7 @@ As when we where creating the `.ssh` folder when generating a key pair, the comm
 [ec2-user@ip-172-31-86-82 ~]$ nano .aws/credentials
 ```
 
-```admonish warning
-We are now getting into tricky terminal territory here. This is not something you need to fully understand, but I promise it will be helpful for you to know the basics and gain some experience with the terminal. Check out [the video](https://www.youtube.com/watch?v=AtlRPFuWgPs) below if you're courious about editing files from the terminal.
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/AtlRPFuWgPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-
-The above command will open a text editor called `nano`. This means you are now editing the contents of the `credentials` file. I know this may be a bit confusing but try to imagine you are just editing a text file with Microsoft Word, the difference is we are going to do it only using the terminal, which means there isn't a graphical user interface and we can only use our keyobard. You should see something like this:
+The above command will open a text editor called `nano`. Alternatively, you can use the `vi` or `vim` editors. This means you are now editing the contents of the `credentials` file. I know this may be a bit confusing but try to imagine you are just editing a text file with Microsoft Word, the difference is we are going to do it only using the terminal, which means there isn't a graphical user interface and we can only use our keyobard. You should see something like this:
 
 ![AWS Dashboard](./figs/guide02/nano-blank.png)
 
