@@ -7,7 +7,7 @@ This website contains  the all the material corresponding to **Unit 3: Cloud Sys
 ## Table of Contents
 
 ### Sessions
-- [Session 1 & 2 - Introduction to Cloud Computing + Github Pages](./session1-2.md)
+- [Session 1 & 2 - Introduction to Cloud Computing](./session1-2.md)
 
 	Get started with AWS. Learn by practicing the basics:
 	
