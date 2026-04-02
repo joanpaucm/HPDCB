@@ -14,6 +14,7 @@
 - [Session 4 - AWS S3](./session4.md)
 	- [HOL 02 - Deploying a cloud infrastructure for researchers in AWS](./hol2.md)
 - [Session 5 - AWS Lambda](./session5.md)
+	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
 - [Session 6, 7 & 8 - AWS Networking.](./session6-7-8.md)
 	-Quiz 2
 

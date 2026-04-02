@@ -17,6 +17,7 @@ This website contains  the all the material corresponding to **Unit 3: Cloud Sys
 - [Session 4 - AWS S3](./session4.md)
 	- [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
 - [Session 5 - AWS Lambda](./session5.md)
+	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md). (Optional)
 - [Session 6, 7 & 8 - AWS Networking](./session6-7-8.md)
 	- Quiz 2 
 	
@@ -32,7 +33,6 @@ This website contains  the all the material corresponding to **Unit 3: Cloud Sys
 - [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md). 
 
 ### Evaluation Criteria 
-- Quiz 1 – (Optional)
 
 Activity 5 (15% of the total of the course)
 - HOL 01 - (30%)
