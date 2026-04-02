@@ -39,7 +39,7 @@ Activity 5 (15% of the total of the course)
 - HOL 02 – (70%) 
 
 Activity 6 (15% of the total of the course)
-- Quiz 2
+- Quiz 2 - May 27 at 14:10
 
 
 
