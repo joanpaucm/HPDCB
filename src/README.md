@@ -34,7 +34,7 @@ This website contains  the all the material corresponding to **Unit 3: Cloud Sys
 ### Evaluation Criteria (10 points)
 - HOL 01 –  (15%) (Mandatori)
 - HOL 02 – (15%) (Mandatori)
-- Quiz 1 – 1 point (Optional)
+- Quiz 1 – (Optional)
 
 
 
