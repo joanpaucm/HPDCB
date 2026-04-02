@@ -17,9 +17,10 @@ This website contains  the all the material corresponding to **Unit 3: Cloud Sys
 - [Session 4 - AWS S3](./session4.md)
 	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md)
 - [Session 5 - AWS Lambda](./session5.md)
-- [Session 6, 7 & 8 - AWS Networking](./session6-7-8.md)
 	- [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
-
+- [Session 6, 7 & 8 - AWS Networking](./session6-7-8.md)
+	- Quiz 2 
+	
 ### Guides
 - [Guide 1 - Setting up AWS for the first time](./guide1.md)
 - [Guide 2 - Setting up AWS for each subsequent session](./guide2.md)
@@ -40,9 +41,6 @@ Activity 5 (15% of the total of the course)
 
 Activity 6 (15% of the total of the course)
 - Quiz 2
-
-
-
 
 
 
