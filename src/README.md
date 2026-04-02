@@ -31,10 +31,17 @@ This website contains  the all the material corresponding to **Unit 3: Cloud Sys
 ### Quizzes (quizzes to deliver)
 - [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md). 
 
-### Evaluation Criteria (10 points)
-- HOL 01 –  (15%) (Mandatori)
-- HOL 02 – (15%) (Mandatori)
+### Evaluation Criteria 
 - Quiz 1 – (Optional)
+
+Activity 5 (15% of the total of the course)
+- HOL 01 - (30%)
+- HOL 02 – (70%) 
+
+Activity 6 (15% of the total of the course)
+- Quiz 2
+
+
 
 
 
