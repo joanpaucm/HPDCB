@@ -6,7 +6,7 @@ We will also see how to package python dependencies as Lambda Layers and how to 
 
 ## Resources
 
-The image dataset for cell counting can be downloaded by clicking [here](./slides/cell_images.zip) or [here](https://campusvirtual.urv.cat/mod/resource/view.php?id=4045388).
+The image dataset for cell counting can be downloaded by clicking [here](./slides/cell_images.zip).
 
 ## Slides
 
