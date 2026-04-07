@@ -1,6 +1,6 @@
 # About this website
 
-This website contains  the all the material corresponding to **Unit 3: Cloud Systems (Cloud Computing Platforms` and `Big Data Analysis)**. This is, the **slides**, **HOLs (Hands-On Labs)**,  **guides**, **quizzes** and the **evaluation** criteria for the course *High Performance and Distributed Computing* in the [Inter-university Master's Degree in Health Data Science](https://www.urv.cat/en/studies/master/courses/health-data-science/).  
+This website contains all the material corresponding to **Unit 3: Cloud Systems (Cloud Computing Platforms` and `Big Data Analysis)**. This is, the **slides**, **HOLs (Hands-On Labs)**,  **guides**, **quizzes** and the **evaluation** criteria for the course *High Performance and Distributed Computing* in the [Inter-university Master's Degree in Health Data Science](https://www.urv.cat/en/studies/master/courses/health-data-science/).  
 
 ![Course logo](./figs/logo.png)
 
