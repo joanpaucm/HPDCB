@@ -1,8 +1,8 @@
-# Session 1 & 2 - Introduction to Cloud Computing + Github Pages
+# Session 1 & 2 - Introduction to Cloud Computing
 
 The first two sessions' goal was to introduce you to the basics of cloud computing. Making sure basic concepts are understood and building some sense of when and why to use cloud computing.
 
-[Hands-On Lab 1](./hol1.md) was introduced at the end of Session 2, the idea is to deploy a personal website using GitHub Pages. During class we went through the steps to set everything up so I suggest you take a look at the slides and the recording if you are having trouble setting up your website.
+[Hands-On Lab 1](./hol1.md) is introduced at the end of Session 2. Tthe idea is to deploy a personal website using GitHub Pages. During class we went through the steps to set everything up so I suggest you take a look at the slides and the recording if you have troubles setting up your website.
 
 ## Slides
 
