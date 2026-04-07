@@ -30,7 +30,7 @@ This website contains all the material corresponding to **Unit 3: Cloud Systems 
 - [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
 
 ### Quizzes (quizzes to deliver)
-- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md). 
+- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md).  (Optional)
 
 ### Evaluation Criteria 
 
