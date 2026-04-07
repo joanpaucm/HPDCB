@@ -3,7 +3,7 @@
 During this session we introduced the AWS Command Line Interface (CLI) and the Simple Storage Service (S3). We went through the basics of the CLI, covering how to install it on your local machine, configure it both on your local machine and on a remote EC2 instance with AWS Credentials. We also saw how to interact with the S3 service, creating buckets, uploading files from the browser AWS Console and from python code using the `boto3` library. Usage of AWS CLI to sync files between local and remote S3 buckets was also covered.
 
 ```admonish info
-A [guide](./guide2.md) was created to help you set up your AWS Credentials as well as other things you'll have to do each time you start your lab. All the contents of the guide where covered during the session, but I suggest you take a look at it any time you need to start your lab again and are having trouble.
+A [guide](./guide2.md) was created to help you set up your AWS Credentials as well as other things you'll have to do each time you start your lab. All the contents of the guide were covered during the session.
 ```
 
 Next,  the 2nd assignment will be presented. More information on the second assignment can be [here](./hol2.md). The idea is to deploy a personal website using GitHub Pages. During class we went through the steps to set everything up so I suggest you take a look at the slides and the recording if you are having trouble setting up your website.
