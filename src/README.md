@@ -13,7 +13,6 @@ This website contains all the material corresponding to **Unit 3: Cloud Systems 
 
 	Get started with AWS. Learn by practicing the basics:	
 	- [Guide 1 - Setting up AWS for the first time](./guide1.md)
-	- [Guide 2 - Setting up AWS for each subsequent session](./guide2.md)
 - [Session 4 - AWS S3](./session4.md)
 	- [Guide 2 - Setting up AWS for each subsequent session](./guide2.md)
 	- [HOL 02 - Deploying an hybrid infrastructure for researchers in AWS](./hol2.md)
