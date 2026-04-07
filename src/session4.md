@@ -6,6 +6,8 @@ During this session we introduced the AWS Command Line Interface (CLI) and the S
 A [guide](./guide2.md) was created to help you set up your AWS Credentials as well as other things you'll have to do each time you start your lab. All the contents of the guide where covered during the session, but I suggest you take a look at it any time you need to start your lab again and are having trouble.
 ```
 
+Next,  the 2nd assignment will be presented. More information on the second assignment can be [here](./hol2.md). The idea is to deploy a personal website using GitHub Pages. During class we went through the steps to set everything up so I suggest you take a look at the slides and the recording if you are having trouble setting up your website.
+
 ## Slides
 
 The slides for the fourth session can be found [here](./slides/Session%204%20-%20AWS%20S3-2026.pdf) and are also available below:
