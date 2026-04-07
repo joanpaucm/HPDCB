@@ -19,7 +19,7 @@ This website contains all the material corresponding to **Unit 3: Cloud Systems 
 - [Session 5 - AWS Lambda](./session5.md)
 	- [Quiz 1 - Cloud Computing (Fundamentals)](./quiz1.md). (Optional)
 - [Session 6 & 7 - AWS Networking](./session6-7.md)
-	- Quiz 2 
+	- Quiz 2. In the Virtual Campus.
 	
 ### Guides
 - [Guide 1 - Setting up AWS for the first time](./guide1.md)

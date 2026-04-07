@@ -1,4 +1,4 @@
-# Session 6 and 7 - AWS Networking. Hands-On Lab 2
+# Session 6 and 7 - AWS Networking
 
 In Sessions 6 an 7 we are going to explore the basics of networking. Understanding how do networks work both inside AWS and in general. We'll see concepts such as what are public and private IP addresses, what is a subnet, what does a router do, etc. To put this into practice we'll work on a lab where we'll create a VPC and a couple subnets, one that can be accessed from the internet and another that can't. We'll also create a couple EC2 instances, one in each subnet, and we'll see how they can communicate with each other.
 
