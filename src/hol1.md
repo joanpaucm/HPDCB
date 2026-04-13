@@ -45,7 +45,7 @@ We are going to use a website template created by [Dean Attali](https://attalite
     <img src="./figs/hol01/pages2.png" width="85%">
 </p>
 
-4. Wait for a couple minutes until your website is deployed. When the deployment is done you'll see a green checkmark next to your last commit. You'll see an brown dot while the deployment is in progress (try refreshing the page if you don't see the green checkmark after a few minutes).
+4. Wait for a couple of minutes until your website is deployed. When the deployment is done you'll see a green checkmark next to your last commit. You'll see an brown dot while the deployment is in progress (try refreshing the page if you don't see the green checkmark after a few minutes).
 
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="./figs/hol01/ci-waiting.png" width="35%">
