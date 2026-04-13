@@ -72,7 +72,7 @@ Instead of editing the file using the Github web interface, you can clone the re
 
 2. Edit the `aboutme.md` file to add your personal information, feel free to write whatever you want. Repeat the same process as in the previous but now editing the `aboutme.md` file.
 
-3. Change the avatar image by editing `_config.yml` and replacing the path. Notice it is just a string with the path to a file present in the repository, in this case, the `images/ferran.jpeg` file. You can upload any image you want to the repository by navigating to the `images` directory and clicking the "Add file -> Upload files" button. If, for example, you uploaded a file called `myavatar.jpg`, you should change the path in `_config.yml` to `images/myavatar.jpg`. If you don't want to use an avatar image, you can remove the line `avatar: "/images/ferran.jpeg` from the `_config.yml` file.
+3. Change the avatar image by editing `_config.yml` and replacing the path. Notice it is just a string with the path to a file present in the repository, in this case, the `images/solsona.png` file. You can upload any image you want to the repository by navigating to the `images` directory and clicking the "Add file -> Upload files" button. If, for example, you uploaded a file called `myavatar.jpg`, you should change the path in `_config.yml` to `images/myavatar.jpg`. If you don't want to use an avatar image, you can remove the line `avatar: "/images/ferran.jpeg` from the `_config.yml` file.
 
 <p align="center">
     <img src="./figs/hol01/avatar.png" width="85%">
