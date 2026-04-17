@@ -52,4 +52,5 @@ Succesfully completeing [HOL 1](hol1.md) will result in you having your own pers
 Add your name and website here!
 
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
+- [Iris Mestres-Pascual](https://deliablue.github.io/)
 
