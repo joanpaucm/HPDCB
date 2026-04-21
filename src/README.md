@@ -53,6 +53,7 @@ Add your name and website here!
 
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
 
+- [Navdeep Kaur](https://gitxnav.github.io)
 - [Ludovic Méan Touroyan](https://ludo9fox123-glitch.github.io/)
 - [David Hidalgo Fàbregas](https://daavidhf.github.io/)
 - [Iris Mestres-Pascual](https://deliablue.github.io/)
