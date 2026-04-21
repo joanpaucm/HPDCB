@@ -44,7 +44,7 @@ Activity 6 (15% of the total of the course)
 
 
 ## Student's blogs
-
+https://ludo9fox123-glitch.github.io/
 ```admonish info
 Succesfully completeing [HOL 1](hol1.md) will result in you having your own personal website. Below is a list of students who have done so and also completed the [last task](hol1.html#task-4-sharing-your-personal-website) which makes them appear in the list below.
 ```
