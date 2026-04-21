@@ -44,7 +44,7 @@ Activity 6 (15% of the total of the course)
 
 
 ## Student's blogs
-
+https://ludo9fox123-glitch.github.io/
 ```admonish info
 Succesfully completeing [HOL 1](hol1.md) will result in you having your own personal website. Below is a list of students who have done so and also completed the [last task](hol1.html#task-4-sharing-your-personal-website) which makes them appear in the list below.
 ```
@@ -53,3 +53,12 @@ Add your name and website here!
 
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
 - [Navdeep Kaur](https://gitxnav.github.io)
+- [Ludovic Méan Touroyan](https://ludo9fox123-glitch.github.io/)
+- [David Hidalgo Fàbregas](https://daavidhf.github.io/)
+- [Iris Mestres-Pascual](https://deliablue.github.io/)
+- [Clara González Sánchez](https://cgonzo94ua.github.io/)
+
+- [Pol Jardi Yanes](https://Pol264.github.io/)
+- [Michael Eskander](https://michaeleskander.github.io/website-template/)
+- [Carla Aullón Coral](https://carlaac5.github.io)
+- [Daniel Granados](https://danielgranadoscampos.github.io)
