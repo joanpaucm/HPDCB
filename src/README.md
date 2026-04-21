@@ -53,3 +53,6 @@ Add your name and website here!
 
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
 - [Pol Jardi Yanes](https://Pol264.github.io/)
+- [Michael Eskander](https://michaeleskander.github.io/website-template/)
+- [Carla Aullón Coral](https://carlaac5.github.io)
+- [Daniel Granados](https://danielgranadoscampos.github.io)
