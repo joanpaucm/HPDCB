@@ -64,8 +64,6 @@ Add your name and website here!
 - [Carla Aullón Coral](https://carlaac5.github.io)
 - [Daniel Granados](https://danielgranadoscampos.github.io)
 - [Ernest Ceballos Ortega](https://blanqui04.github.io)
-- 
 - [Blai Crespo](https://blaicrespou.github.io)
 - [Ema Stangova](https://ema173.github.io)
-- 
 
