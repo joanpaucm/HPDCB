@@ -67,3 +67,10 @@ Add your name and website here!
 - [Blai Crespo](https://blaicrespou.github.io)
 - [Ema Stangova](https://ema173.github.io)
 - [Cindy Chen](https://cchenche8.github.io)
+- [Iván Pérez López](https://ivanpl-urv.github.io/)
+- [Noelia Muñoz](https://noeliamg227.github.io/)
+- [Miriam Cegarra Cuquerella](https://miriamcuque.github.io/)
+- [Ecem Onat Cakmak](https://ecem-onatcakmak.github.io)  
+    
+- [Miguel González González](https://miguelglez99.github.io/)
+
