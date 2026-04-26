@@ -73,6 +73,7 @@ Add your name and website here!
 - [Miriam Cegarra Cuquerella](https://miriamcuque.github.io/)
 - [Ecem Onat Cakmak](https://ecem-onatcakmak.github.io)  
 - [Miguel González González](https://miguelglez99.github.io/)
+- [Julen Rodriguez](https://juleneraso.github.io/)
 - [Pablo García Hernández](https://pables-g.github.io/)
 - [Taras Yuziv Duda](https://tarasyuziv.github.io)
 
