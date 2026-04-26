@@ -72,6 +72,6 @@ Add your name and website here!
 - [Noelia Muñoz](https://noeliamg227.github.io/)
 - [Miriam Cegarra Cuquerella](https://miriamcuque.github.io/)
 - [Ecem Onat Cakmak](https://ecem-onatcakmak.github.io)  
-    
 - [Miguel González González](https://miguelglez99.github.io/)
+- [Taras Yuziv Duda](https://tarasyuziv.github.io)
 
