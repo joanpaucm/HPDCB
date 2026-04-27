@@ -77,5 +77,6 @@ Add your name and website here!
 - [Pablo García Hernández](https://pables-g.github.io/)
 - [Taras Yuziv Duda](https://tarasyuziv.github.io)
 - [Gemma Esteve Valls](https://geeeemi8.github.io/)
+- [Roger Puig Arxer](https://r-puig.github.io/website/)
   
 
