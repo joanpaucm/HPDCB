@@ -80,5 +80,6 @@ Add your name and website here!
 - [Celica Krigul](https://ck240426.github.io)
 - [Roger Puig Arxer](https://r-puig.github.io/website/)
 - [José Pablo Soriano Torres](thisisjosepablo.com)
+- [César Merino Fidalgo](https://cmerinofi.github.io/)
   
 
