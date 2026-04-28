@@ -79,7 +79,7 @@ Add your name and website here!
 - [Gemma Esteve Valls](https://geeeemi8.github.io/)
 - [Celica Krigul](https://ck240426.github.io)
 - [Roger Puig Arxer](https://r-puig.github.io/website/)
-- [José Pablo Soriano Torres](thisisjosepablo.com)
+- [José Pablo Soriano Torres](https://thisisjosepablo.com)
 - [César Merino Fidalgo](https://cmerinofi.github.io/)
   
 
