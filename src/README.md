@@ -83,5 +83,6 @@ Add your name and website here!
 - [César Merino Fidalgo](https://cmerinofi.github.io/)
 - [Sara Ortiz Couvet](https://saraortiz22.github.io/)
 - [Szymon Majorek](https://majoreks.github.io/)
+- [Yudi Wang Zhang](https://yudiwz.github.io/)
   
 
