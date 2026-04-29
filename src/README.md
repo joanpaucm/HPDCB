@@ -84,5 +84,6 @@ Add your name and website here!
 - [Sara Ortiz Couvet](https://saraortiz22.github.io/)
 - [Szymon Majorek](https://majoreks.github.io/)
 - [Yudi Wang Zhang](https://yudiwz.github.io/)
+- [Joao Constantino Muianga](https://Joaomuianga.github.io)
   
 
