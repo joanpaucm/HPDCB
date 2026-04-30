@@ -190,7 +190,7 @@ For this task I would recommend to visit [Sessions 6, 7 and 8](./session6-7-8.md
   
 ## Deliverables
 
-- A PDF report to be submitted on the Moodle ([here](https://campusvirtual.urv.cat/mod/assign/view.php?id=4051057)). The report should just contain screenshots that demonstrate each of the task steps defined above. Screenshots can be accompanied by a short description of what is being shown and any other relevant information.
+- A PDF report to be submitted to francesc.solsona@udl.cat. The report should just contain screenshots that demonstrate each of the task steps defined above. Screenshots can be accompanied by a short description of what is being shown and any other relevant information.
 
 ## Minimum requirements
 
