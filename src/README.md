@@ -53,7 +53,7 @@ Add your name and website here!
 
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
 - [Michael Eskander](https://michaeleskander.github.io/website-template/)
-
+- [Clara Podaru](https://clarap-s.github.io) 
 - [Navdeep Kaur](https://gitxnav.github.io)
 - [Ludovic Méan Touroyan](https://ludo9fox123-glitch.github.io/)
 - [David Hidalgo Fàbregas](https://daavidhf.github.io/)
