@@ -88,5 +88,6 @@ Add your name and website here!
 - [Joao Constantino Muianga](https://Joaomuianga.github.io)
 - [Clara Podaru](https://clarap-s.github.io)
 - [Laia Fortuny Parull](https://laaiaf27.github.io/)
+- [Aleix Ramon Brugada](https://aleixrbrugada.github.io/)
   
 
