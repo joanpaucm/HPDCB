@@ -89,5 +89,6 @@ Add your name and website here!
 - [Clara Podaru](https://clarap-s.github.io)
 - [Laia Fortuny Parull](https://laaiaf27.github.io/)
 - [Aleix Ramon Brugada](https://aleixrbrugada.github.io/)
+- [Johanna Albers](https://johannaalbers.github.io)
   
 
