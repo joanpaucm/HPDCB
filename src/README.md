@@ -87,5 +87,6 @@ Add your name and website here!
 - [Georgina Sans](https://georginaurv.github.io/)
 - [Joao Constantino Muianga](https://Joaomuianga.github.io)
 - [Clara Podaru](https://clarap-s.github.io)
+- [Aleix Ramon Brugada](https://aleixrbrugada.github.io/)
   
 
