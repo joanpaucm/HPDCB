@@ -91,4 +91,7 @@ Add your name and website here!
 - [Aleix Ramon Brugada](https://aleixrbrugada.github.io/)
 - [Johanna Albers](https://johannaalbers.github.io)
   
+- [Oriol Garcia Puig](https://oriol23.github.io/)
+- [Dat Tien Le](https://daumierle.github.io/) 
+- [Pablo Longán Gasol](https://pablolongan.github.io/)
 
