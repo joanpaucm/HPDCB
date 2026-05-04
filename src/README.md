@@ -96,6 +96,7 @@ Add your name and website here!
 - [Dat Tien Le](https://daumierle.github.io/) 
 - [Pablo Longán Gasol](https://pablolongan.github.io/)
 - [Maria Llort](https://mariallort.github.io)
+- [Zaid Al Hakioui](https://zaiiid21.github.io)
   
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 
