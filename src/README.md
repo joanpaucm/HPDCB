@@ -96,6 +96,6 @@ Add your name and website here!
 - [Dat Tien Le](https://daumierle.github.io/) 
 - [Pablo Longán Gasol](https://pablolongan.github.io/)
 - [Maria Llort](https://mariallort.github.io)
-  
 - [Oriol Galimany Garriga](https://urigg9.github.io)
+- [Adam Koershuis I Garcia](https://koershuis.github.io/)
 
