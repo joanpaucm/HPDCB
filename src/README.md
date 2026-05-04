@@ -99,4 +99,5 @@ Add your name and website here!
 - [Zaid Al Hakioui](https://zaiiid21.github.io)
   
 - [Oriol Galimany Garriga](https://urigg9.github.io)
+- [Adam Koershuis I Garcia](https://koershuis.github.io/)
 
