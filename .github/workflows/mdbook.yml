@@ -25,8 +25,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      # MDBOOK_VERSION: 0.4.36
         MDBOOK_VERSION: 0.4.52
+        MDBOOK_ADMONISH_VERSION: 1.1.0
+        MDBOOK_QUIZ_VERSION: 0.4.0
     steps:
       - uses: actions/checkout@v3
       - name: Install mdBook
@@ -34,8 +35,8 @@ jobs:
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           rustup update
           cargo install --version ${MDBOOK_VERSION} mdbook
-          cargo install mdbook-quiz
-          cargo install mdbook-admonish
+          cargo install --version ${MDBOOK_QUIZ_VERSION} mdbook-quiz
+          cargo install --version ${MDBOOK_ADMONISH_VERSION} mdbook-admonish
           mdbook-admonish install
       - name: Setup Pages
         id: pages
