@@ -55,6 +55,7 @@ Add your name and website here!
 - [Michael Eskander](https://michaeleskander.github.io/website-template/)
 
 - [Marta Meroño](https://mmerono.github.io)
+- [Clara Podaru](https://clarap-s.github.io) 
 - [Navdeep Kaur](https://gitxnav.github.io)
 - [Ludovic Méan Touroyan](https://ludo9fox123-glitch.github.io/)
 - [David Hidalgo Fàbregas](https://daavidhf.github.io/)
@@ -85,5 +86,14 @@ Add your name and website here!
 - [Sara Ortiz Couvet](https://saraortiz22.github.io/)
 - [Szymon Majorek](https://majoreks.github.io/)
 - [Yudi Wang Zhang](https://yudiwz.github.io/)
-  
+- [Georgina Sans](https://georginaurv.github.io/)
+- [Joao Constantino Muianga](https://Joaomuianga.github.io)
+- [Clara Podaru](https://clarap-s.github.io)
+- [Laia Fortuny Parull](https://laaiaf27.github.io/)
+- [Aleix Ramon Brugada](https://aleixrbrugada.github.io/)
+- [Johanna Albers](https://johannaalbers.github.io)
+- [Oriol Garcia Puig](https://oriol23.github.io/)
+- [Dat Tien Le](https://daumierle.github.io/) 
+- [Pablo Longán Gasol](https://pablolongan.github.io/)
+- [Oriol Galimany Garriga](https://urigg9.github.io)
 
