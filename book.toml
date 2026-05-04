@@ -5,10 +5,10 @@ src = "src"
 title = "Companion website for High-Performance and Distributed Computing subject"
 
 [preprocessor.quiz]
+command = "mdbook-quiz"
 
 [preprocessor.admonish]
 command = "mdbook-admonish"
-assets_version = "3.0.3" # do not edit: managed by `mdbook-admonish install`
 
 [output]
 

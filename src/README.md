@@ -53,6 +53,8 @@ Add your name and website here!
 
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
 - [Michael Eskander](https://michaeleskander.github.io/website-template/)
+
+- [Marta Meroño](https://mmerono.github.io)
 - [Clara Podaru](https://clarap-s.github.io) 
 - [Navdeep Kaur](https://gitxnav.github.io)
 - [Ludovic Méan Touroyan](https://ludo9fox123-glitch.github.io/)
@@ -95,3 +97,5 @@ Add your name and website here!
 - [Pablo Longán Gasol](https://pablolongan.github.io/)
 - [Maria Llort](https://mariallort.github.io)
   
+- [Oriol Galimany Garriga](https://urigg9.github.io)
+
