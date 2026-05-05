@@ -97,7 +97,7 @@ Add your name and website here!
 - [Pablo Longán Gasol](https://pablolongan.github.io/)
 - [Maria Llort](https://mariallort.github.io)
 - [Zaid Al Hakioui](https://zaiiid21.github.io)
-  
+- [Albert Garcia](https://albertgarciab.github.io/)
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 - [Adam Koershuis I Garcia](https://koershuis.github.io/)
 
