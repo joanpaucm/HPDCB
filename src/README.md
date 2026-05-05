@@ -100,4 +100,4 @@ Add your name and website here!
 - [Albert Garcia](https://albertgarciab.github.io/)
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 - [Adam Koershuis I Garcia](https://koershuis.github.io/)
-
+- [Laia Colomé Xicoy](https://lacxy05.github.io/)
