@@ -112,18 +112,15 @@ Add your name and website here!
 - [Paula Maíllo](https://pmaillo13.github.io/)
 - [Irene López Vázquez](https://irenelopezvazquez.github.io/irenelopevazquez.github.io/)
 - [Julio César Postigo](https://jucepos.github.io/)
-- [Raians Sprogis Marons] (https://marohn2.github.io/)
+- [Raians Sprogis Marons](https://marohn2.github.io/)
 - [Andrea Pérez Valle](https://andreaperval-gap.github.io)
 - [Yuxi Qiao](https://qiaoyx3170.github.io/)
-
-
 - [Ana Díaz Acevedo](https://anadiazace2002.github.io/)
 - [Laia Colomé Xicoy](https://lacxy05.github.io/)
 - [Miriam Iturralde Aguiló](https://miriamiturralde.github.io/)
 - [Jan Carreras Boada](https://jancarreras24.github.io/)
 - [Keith Megara Osores Vicuña](https://keithov.github.io)
 - [Rajae El Gaouzi](https://rajaeelgaouzi.github.io)
-
 - [Joana Ros Alonso](https://traspami.github.io/)
 - [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/).
 - [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/DanielaMercedes/)
