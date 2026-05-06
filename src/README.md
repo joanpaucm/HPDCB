@@ -101,7 +101,8 @@ Add your name and website here!
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 - [Adam Koershuis I Garcia](https://koershuis.github.io/)
 - [Víctor Gutiérrez González](https://vity-11.github.io/)
-
+- [Marco Russo](https://www.marcusrb.com/mrussorb.github.io/)
+- [Andrea Pérez Valle](https://andreaperval-gap.github.io/)
 - [Abdoulahe Tunkara Tunkara](https://abdoulahe.github.io/)
 - [Nerea Salvador Prieto](https://nerea0.github.io/)
 - [Aina Mas Tena](https://ainamas.github.io/)
@@ -110,6 +111,9 @@ Add your name and website here!
 - [Paula Maíllo](https://pmaillo13.github.io/)
 - [Irene López Vázquez](https://irenelopezvazquez.github.io/irenelopevazquez.github.io/)
 - [Julio César Postigo](https://jucepos.github.io/)
+- [Raians Sprogis Marons] (https://marohn2.github.io/)
+- [Andrea Pérez Valle](https://andreaperval-gap.github.io)
+- [Yuxi Qiao](https://qiaoyx3170.github.io/)
 
 
 - [Ana Díaz Acevedo](https://anadiazace2002.github.io/)
@@ -121,3 +125,5 @@ Add your name and website here!
 
 - [Joana Ros Alonso](https://traspami.github.io/)
 - [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/).
+- [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/DanielaMercedes/)
+- [Alec López](https://aleclnv-cell.github.io/aleclopez.github.io/)
