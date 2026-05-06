@@ -101,4 +101,18 @@ Add your name and website here!
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 - [Adam Koershuis I Garcia](https://koershuis.github.io/)
 - [Nerea Salvador Prieto](https://nerea0.github.io/)
+- [Aina Mas Tena](https://ainamas.github.io/)
+- [Júlia Galimany Claver](https://juliagc22.github.io/)
+- [Gabriel Torres Zamora](https://GaboTor7.github.io/)
+- [Paula Maíllo](https://pmaillo13.github.io/)
+- [Irene López Vázquez](https://irenelopezvazquez.github.io/irenelopevazquez.github.io/)
 
+
+- [Ana Díaz Acevedo](https://anadiazace2002.github.io/)
+- [Laia Colomé Xicoy](https://lacxy05.github.io/)
+- [Miriam Iturralde Aguiló](https://miriamiturralde.github.io/)
+- [Jan Carreras Boada](https://jancarreras24.github.io/)
+- [Keith Megara Osores Vicuña](https://keithov.github.io)
+- [Rajae El Gaouzi](https://rajaeelgaouzi.github.io)
+
+- [Joana Ros Alonso](https://traspami.github.io/)
