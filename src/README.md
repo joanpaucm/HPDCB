@@ -100,6 +100,7 @@ Add your name and website here!
 - [Albert Garcia](https://albertgarciab.github.io/)
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 - [Adam Koershuis I Garcia](https://koershuis.github.io/)
+- [Nerea Salvador Prieto](https://nerea0.github.io/)
 - [Aina Mas Tena](https://ainamas.github.io/)
 - [Júlia Galimany Claver](https://juliagc22.github.io/)
 - [Gabriel Torres Zamora](https://GaboTor7.github.io/)
