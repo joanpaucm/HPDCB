@@ -100,6 +100,7 @@ Add your name and website here!
 - [Albert Garcia](https://albertgarciab.github.io/)
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 - [Adam Koershuis I Garcia](https://koershuis.github.io/)
+- [Paula Maíllo](https://pmaillo13.github.io/)
 - [Irene López Vázquez](https://irenelopezvazquez.github.io/irenelopevazquez.github.io/)
 
 
