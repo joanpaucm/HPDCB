@@ -101,4 +101,10 @@ Add your name and website here!
 - [Oriol Galimany Garriga](https://urigg9.github.io)
 - [Adam Koershuis I Garcia](https://koershuis.github.io/)
 - [Ana Díaz Acevedo](https://anadiazace2002.github.io/)
+- [Laia Colomé Xicoy](https://lacxy05.github.io/)
+- [Miriam Iturralde Aguiló](https://miriamiturralde.github.io/)
+- [Jan Carreras Boada](https://jancarreras24.github.io/)
+- [Keith Megara Osores Vicuña](https://keithov.github.io)
+- [Rajae El Gaouzi](https://rajaeelgaouzi.github.io)
 
+- [Joana Ros Alonso](https://traspami.github.io/)
