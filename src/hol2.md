@@ -25,9 +25,7 @@ The private EC2 instance will just be serving the file server and will need to t
 
 ![Architecture Diagram](./figs/hol02/architecture.png)
 
-This lab is going to be divided into two tasks that should be implemented **in order**. Everything related to the Client VPN endpoint is going to be on the second task, I suggest you **only go for Task 2 once Task 1 is complete** since the Client VPN endpoint is a **substantially expensive** service. By leaving Task 2 for the end we can make it easier for your budget to not run out before you have completed the lab.
-
-Moreover, **Task 1 is going to be 80% of this assignment grade** while **Task 2 will be the remaining 20%**. I prefer you to fully complete Task 1 before attempting Task 2. Once Task 1 is done, **keep an eye on you budget** (an email is going to automatically be sent to you once 50%, 90% and 95% of your budget is exceeded). If you see you are soon going to run out of budget just stop the lab and email me at `francesc.solsona@udl.cat`, I'll set up a fresh account for you. **Running out of budget means losing everything on your account!!**
+This lab is going to be divided into two tasks, Task 1 and Task 2.  However **Task 2  is optional**. That is, **Task 1 is going to be 100% of this assignment grade**. 
 
 ## Task 1
 
