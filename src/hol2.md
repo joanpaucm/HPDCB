@@ -25,8 +25,7 @@ The private EC2 instance will just be serving the file server and will need to t
 
 ![Architecture Diagram](./figs/hol02/architecture.png)
 
-This lab is going to be divided into one tasks, Task 1.
-## Task 1
+## Task
 
 This task's goal is to set up the infrastructure for the public Jupyter Notebook server, the S3 buckets and the Lambda function. Below is the order in which I would recommend to proceed:
 
