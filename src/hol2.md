@@ -76,7 +76,7 @@ For this HOL I would recommend to visit [Session 3](./session3.md), [Session 4](
   
 - Lambda Function:
   - Name: lab-lambda-function
-  - Runtime: Python 3.13
+  - Runtime: Python 3.14
   
 ### Additional resources
 
