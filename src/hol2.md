@@ -46,7 +46,7 @@ Here are the services you will need to create in the AWS Management Console:
 ```admonish info
 The list below **does not** contain all the parameters you need to fill in, just the ones that could vary from what we saw in class. You'll need to find out the rest of the parameters by yourself (just look at the slides, everything is there 😉)
 
-For this task I would recommend to visit [Session 3](./session3.md), [Session 4](./session4.md) and [Session 5](./session5.md) of the course.
+For this HOL I would recommend to visit [Session 3](./session3.md), [Session 4](./session4.md) and [Session 5](./session5.md) of the course.
 ```
 
 - VPC: 
