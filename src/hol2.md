@@ -6,14 +6,14 @@ This activity was presented during Session 8, more information on the session ca
 
 ## Introduction
 
-Jupyter Notebooks have become an essential tool for analyzing data and disseminating findings in data science. This hands-on lab guides you through setting up a public Jupyter Notebook server on AWS for your research team which is going to save images to an S3 bucket monitored by a Lambda that processes them and saves the final result on another bucket. Furthermore, we will deploy a private FileGator file server using Docker to share sensitive data between your team which will be accessible only through a VPN connection. 
+Jupyter Notebooks have become an essential tool for analyzing data and disseminating findings in data science. This hands-on lab guides you through setting up a public Jupyter Notebook server on AWS for your research team which is going to save images to an S3 bucket monitored by a Lambda that processes them and saves the final result on another bucket.
 
 ## Prerequisites
 
 - AWS Academy account. (Check out [this guide](./guide1.md) for help).
 - Access to the AWS Management Console.
 - Knowing how to setup the **AWS CLI Credentials**. (Check out [this guide](./guide2.md) for help).
-- Basic knowledge of AWS services, including **EC2, S3, Lambda, and VPC**. (Check out the different sessions in the course for help, a summary of each session can be found on its page on this website, check [the index](https://hdbc-17705110-mdbs.github.io/HandsOnLabs/index.html) on the home page).
+- Basic knowledge of AWS services, including **EC2, S3, Lambda, and VPC**. (Check out the different sessions in the course for help).
 
 ## Architecture Diagram
 
@@ -25,8 +25,7 @@ The private EC2 instance will just be serving the file server and will need to t
 
 ![Architecture Diagram](./figs/hol02/architecture.png)
 
-This lab is going to be divided into two tasks, Task 1 and Task 2.  However **Task 2  is optional**. That is, **Task 1 is going to be 100% of this assignment grade**. 
-
+This lab is going to be divided into one tasks, Task 1.
 ## Task 1
 
 This task's goal is to set up the infrastructure for the public Jupyter Notebook server, the S3 buckets and the Lambda function. Below is the order in which I would recommend to proceed:
@@ -137,54 +136,7 @@ s3.upload_fileobj(buffer, bucket_name, object_key)
 print(f"Image uploaded to s3://{bucket_name}/{object_key}")
 ```
 
-## Task 2
-
-This task's goal is to set up the infrastructure for the private FileGator server. Below is the order in which I would recommend to proceed:
-
-1. Create the private subnet.
-2. Create an EC2 instance on the private subnet and configure the security group to allow SSH (port 22) and HTTP access on port 8080.
-3. Temporarily give internet access to the private EC2 instance by adding a NAT Gateway and modifying the route table of the private subnet. 
-4. Generate server and client certificates and import them to AWS.
-5. Add the Client VPN endpoint to the VPC and associate it with the public subnet.
-6. Configure the Route Table and the Authorization Rules for the Client VPN endpoint.
-7. Download the VPN configuration file ending with `.ovpn` and edit it to include the client certificate and key.
-8. Download and install the [AWS Client VPN software](https://aws.amazon.com/vpn/client-vpn-download/) on your local machine and import the configuration file.
-9. Connect to the VPN and SSH into the private EC2 instance.
-10. Install Docker and run the FileGator server on the private EC2 instance.
-11. Remove the NAT Gateway and modify the route table of the private subnet to remove the internet access.
-12. Make sure the FileGator server is accessible only when you are connected to the VPN.
-
-
-### Services 
-Here are the services you will need to create in the AWS Management Console:
-
-```admonish info
-Once again, the list below **does not** contain all the parameters you need to fill in, just the ones that could vary from what we saw in class.
-
-For this task I would recommend to visit [Sessions 6, 7 and 8](./session6-7-8.md) of the course.
-```
-
-- Subnets: 
-  - Name: lab-private-subnet
-    - CIDR: 10.0.2.0/24
-
-- EC2 Instances:
-  - Name: lab-private-ec2
-  - Subnet: lab-private-subnet
-  - AMI: Ubuntu
-    
-- NAT Gateway (*will have to be deleted once the EC2 instance is configured*):
-  - Name: lab-nat-gateway
-
-- Route Table (*will have to be deleted once the EC2 instance is configured*):
-  - Name: (no name) it is the default route table of the VPC
-  - Routes: 0.0.0.0/0 -> lab-nat-gateway 
-
-- Client VPN Endpoint:
-  - Name: lab-client-vpn-endpoint
-  - Client CIDR: 10.83.0.0/16
-  
-## Deliverables
+## Deliverable
 
 - A PDF report to be submitted to francesc.solsona@udl.cat. The report should just contain screenshots that demonstrate each of the task steps defined above. Screenshots can be accompanied by a short description of what is being shown and any other relevant information.
 
