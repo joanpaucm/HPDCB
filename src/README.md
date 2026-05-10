@@ -126,3 +126,4 @@ Add your name and website here!
 - [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/).
 - [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/DanielaMercedes/)
 - [Alec López](https://aleclnv-cell.github.io/aleclopez.github.io/)
+- [Serina Allen](https://sdallen7.github.io/)
